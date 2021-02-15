@@ -1,6 +1,6 @@
-Appliances Energy Usage Prediction
+# Appliances Energy Usage Prediction
 
-# Project Overview
+## Project Overview
 
 ### Description
 
